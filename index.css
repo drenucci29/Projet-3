@@ -1,0 +1,14 @@
+.Fruits {
+  border: solid;
+  color: white;
+  width: 400px;
+  height: 550px;
+}
+
+.Desc1 {
+  color: white;
+}
+
+body {
+  background-color: #282b31;
+}
