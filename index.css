@@ -12,3 +12,9 @@
 body {
   background-color: #282b31;
 }
+
+.button {
+  color: white;
+  border: solid;
+  background-color: grey;
+}
